@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@google/genai": "^1.30.0"
+    "@google/genai": "^1.31.0",
+    "glob": "^13.0.0"
   }
 }
